@@ -1,7 +1,7 @@
-# KWOC slack channel link
-https://join.slack.com/t/pestdetection/shared_invite/zt-jrnfw1md-KT7tyKC1xUC7W7t0Co7FZQ
-
+# About the Algo-Krishi AI model
+The deep learning code identifies the pests and provides with corresponding chemical composition to get rid of the pests.
 # Pest_detection
+
 Pest Detection using Deep Learning and Tensorflow from scratch.
 
 ## How to Run
@@ -11,9 +11,7 @@ Easy way: run pest_detection.ipynb Colab Notebook.
 To retrain the weigth you can use pest_detection_weight.ipynb Colab Notebook.
 
 ## Pest Dataset
-Download Training Dataset from given Link
-
-https://drive.google.com/file/d/1H1pf_NghWOKALC97_GpumriOSwt3xsTI/view?usp=sharing
+[Download Training Dataset from given Link](https://drive.google.com/file/d/1H1pf_NghWOKALC97_GpumriOSwt3xsTI/view?usp=sharing)
 
 Test Dataset is in Pest_val.zip
 
